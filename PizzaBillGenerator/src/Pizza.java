@@ -41,7 +41,7 @@ public class Pizza {
 
 
     public  void getBill(){
-
+        System.out.println("Pizza Bill: "+ this.price);
 
     }
 
